@@ -1,7 +1,7 @@
 # bunny-components
 Web components library - with lit-html
 
-This is a library of dark custom-elements originally built for the mutable-bunnies game. The components will be broken out into a separate repository for reuse.
+This is a library of dark custom-elements originally built for the mutable-bunnies game. The components will be broken out into a separate repository (this) for reuse.
 
 ### Components
 
